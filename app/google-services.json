@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113010245991",
+    "project_id": "passer-48324",
+    "storage_bucket": "passer-48324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113010245991:android:0bd34fa6dbb76234d42fc2",
+        "android_client_info": {
+          "package_name": "com.itcube.passer3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113010245991-bdc95h6nc0u35139l28fkbsdnhoev8cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlHgta72z8g3d-_4GOPrJprKEhY1-NAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113010245991-bdc95h6nc0u35139l28fkbsdnhoev8cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
